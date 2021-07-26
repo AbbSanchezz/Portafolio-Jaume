@@ -1,0 +1,15 @@
+.mensaje {
+	padding-inline-start: 16px;
+	padding-inline-end: 16px;
+	padding-block-start: 40px;
+	padding-block-end: 24px;
+	text-align: center;
+}
+.msj-1 {
+	font: var(--body1);
+	font-size: 19px;
+
+}
+.msj-2 {
+	font: var(--headline5)
+}

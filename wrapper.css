@@ -1,0 +1,6 @@
+.wrapper {
+	max-inline-size: 1158px; /*para que el contenedor principal no pase los 1158px*/
+	padding-inline-end: 16px; /*el padding para el espacio que sobra*/
+	padding-inline-start: 16px; /*para que se centre*/
+	margin: auto;
+}

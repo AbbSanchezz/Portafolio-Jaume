@@ -1,0 +1,15 @@
+.button {
+	background: var(--purple);
+	color: var(--white);
+	padding-inline-start: 24px;
+	padding-inline-end: 25px;
+	padding-block-start: 13px;
+	padding-block-end: 13px;
+	border-radius: 4px;
+	text-transform: uppercase; /* para que se ponga la letra en mayusculas */
+	text-decoration: none;
+	text-align: center;
+	border: none;
+	font: var(--button);
+}
+
